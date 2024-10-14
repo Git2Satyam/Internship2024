@@ -11,5 +11,9 @@ namespace StudentForm.Repository.Interface
     public interface IStudentRepo
     {
         IEnumerable<StudentModel> GetAllStudent();
+
+        int SaveStudentData(StudentModel student);
+
+        bool EditStudent(StudentModel model);
     }
 }

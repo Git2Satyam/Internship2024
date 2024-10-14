@@ -5,6 +5,7 @@ D:\Internship\StudentFrom\StudentForm.Models\obj\Debug\net6.0\StudentForm.Models
 D:\Internship\StudentFrom\StudentForm.Models\obj\Debug\net6.0\StudentForm.Models.AssemblyInfoInputs.cache
 D:\Internship\StudentFrom\StudentForm.Models\obj\Debug\net6.0\StudentForm.Models.AssemblyInfo.cs
 D:\Internship\StudentFrom\StudentForm.Models\obj\Debug\net6.0\StudentForm.Models.csproj.CoreCompileInputs.cache
+D:\Internship\StudentFrom\StudentForm.Models\obj\Debug\net6.0\StudentForm.Models.sourcelink.json
 D:\Internship\StudentFrom\StudentForm.Models\obj\Debug\net6.0\StudentForm.Models.dll
 D:\Internship\StudentFrom\StudentForm.Models\obj\Debug\net6.0\refint\StudentForm.Models.dll
 D:\Internship\StudentFrom\StudentForm.Models\obj\Debug\net6.0\StudentForm.Models.pdb

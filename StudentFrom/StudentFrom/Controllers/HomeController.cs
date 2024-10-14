@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using StudentForm.Models;
 using StudentForm.Services.Interface;
 using StudentFrom.Models;
 using System.Diagnostics;
@@ -22,6 +23,61 @@ namespace StudentFrom.Controllers
             return View(result);
         }
 
+        
+        public IActionResult DisplayStudentForm()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        public IActionResult DisplayStudentForm(StudentModel model)
+        {
+            try
+            {
+                if (ModelState.IsValid)
+                {
+                    var result = _studentService.SaveStudentData(model);
+                }
+                else
+                {
+                    return null;
+                }
+                return RedirectToAction("Index");
+            }
+            catch(Exception ex)
+            {
+                throw ex;
+            }
+        }
+
+        public IActionResult EditStudent(int id)
+        {
+            return View();
+        }
+
+        [HttpPost]
+        public IActionResult EditStudent(StudentModel model)
+        {
+            try
+            {
+                if (ModelState.IsValid)
+                {
+                    var result = _studentService.EditStudent(model);
+                    if (result)
+                    {
+                        return RedirectToAction("Index");
+                    }
+                    else
+                    {
+                        return null;
+                    }
+                }
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+        }
         public IActionResult Privacy()
         {
             return View();

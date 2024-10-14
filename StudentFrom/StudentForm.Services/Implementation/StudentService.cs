@@ -17,12 +17,36 @@ namespace StudentForm.Services.Implementation
             _studentRepo = studentRepo;
         }
 
+        public bool EditStudent(StudentModel model)
+        {
+            try
+            {
+                return _studentRepo.EditStudent(model); 
+            }
+            catch(Exception ex)
+            {
+                throw ex;
+            }
+        }
+
         public IEnumerable<StudentModel> GetAllStudent()
         {
             try
             {
                 return _studentRepo.GetAllStudent();
                
+            }
+            catch(Exception ex)
+            {
+                throw ex;
+            }
+        }
+
+        public int SaveStudentData(StudentModel model)
+        {
+            try
+            {
+                return _studentRepo.SaveStudentData(model);
             }
             catch(Exception ex)
             {

@@ -10,5 +10,9 @@ namespace StudentForm.Services.Interface
     public interface IStudentService
     {
         IEnumerable<StudentModel> GetAllStudent();
+
+        int SaveStudentData(StudentModel model);
+
+        bool EditStudent(StudentModel model);
     }
 }

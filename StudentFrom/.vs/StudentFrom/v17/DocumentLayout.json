@@ -3,28 +3,32 @@
   "WorkspaceRootPath": "D:\\Internship\\StudentFrom\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{888DCB7E-9BE4-4FCF-851A-BB71CB800D59}|StudentFrom\\StudentFrom.csproj|d:\\internship\\studentfrom\\studentfrom\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{888DCB7E-9BE4-4FCF-851A-BB71CB800D59}|StudentFrom\\StudentFrom.csproj|solutionrelative:studentfrom\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{888DCB7E-9BE4-4FCF-851A-BB71CB800D59}|StudentFrom\\StudentFrom.csproj|d:\\internship\\studentfrom\\studentfrom\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888DCB7E-9BE4-4FCF-851A-BB71CB800D59}|StudentFrom\\StudentFrom.csproj|solutionrelative:studentfrom\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8229485D-B5AE-4800-A21E-22AAF6DFD29A}|StudentForm.Repository\\StudentForm.Repository.csproj|d:\\internship\\studentfrom\\studentform.repository\\implementation\\studentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8229485D-B5AE-4800-A21E-22AAF6DFD29A}|StudentForm.Repository\\StudentForm.Repository.csproj|solutionrelative:studentform.repository\\implementation\\studentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{888DCB7E-9BE4-4FCF-851A-BB71CB800D59}|StudentFrom\\StudentFrom.csproj|d:\\internship\\studentfrom\\studentfrom\\views\\home\\editstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{888DCB7E-9BE4-4FCF-851A-BB71CB800D59}|StudentFrom\\StudentFrom.csproj|solutionrelative:studentfrom\\views\\home\\editstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888DCB7E-9BE4-4FCF-851A-BB71CB800D59}|StudentFrom\\StudentFrom.csproj|d:\\internship\\studentfrom\\studentfrom\\views\\home\\displaystudentform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{888DCB7E-9BE4-4FCF-851A-BB71CB800D59}|StudentFrom\\StudentFrom.csproj|solutionrelative:studentfrom\\views\\home\\displaystudentform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888DCB7E-9BE4-4FCF-851A-BB71CB800D59}|StudentFrom\\StudentFrom.csproj|d:\\internship\\studentfrom\\studentfrom\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{888DCB7E-9BE4-4FCF-851A-BB71CB800D59}|StudentFrom\\StudentFrom.csproj|solutionrelative:studentfrom\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EE0EC10C-074F-4F94-A4BA-95E489E4190A}|StudentForm.Services\\StudentForm.Services.csproj|d:\\internship\\studentfrom\\studentform.services\\implementation\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EE0EC10C-074F-4F94-A4BA-95E489E4190A}|StudentForm.Services\\StudentForm.Services.csproj|solutionrelative:studentform.services\\implementation\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{888DCB7E-9BE4-4FCF-851A-BB71CB800D59}|StudentFrom\\StudentFrom.csproj|d:\\internship\\studentfrom\\studentfrom\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{888DCB7E-9BE4-4FCF-851A-BB71CB800D59}|StudentFrom\\StudentFrom.csproj|solutionrelative:studentfrom\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE0EC10C-074F-4F94-A4BA-95E489E4190A}|StudentForm.Services\\StudentForm.Services.csproj|d:\\internship\\studentfrom\\studentform.services\\configureservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE0EC10C-074F-4F94-A4BA-95E489E4190A}|StudentForm.Services\\StudentForm.Services.csproj|solutionrelative:studentform.services\\configureservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EE0EC10C-074F-4F94-A4BA-95E489E4190A}|StudentForm.Services\\StudentForm.Services.csproj|d:\\internship\\studentfrom\\studentform.services\\interface\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EE0EC10C-074F-4F94-A4BA-95E489E4190A}|StudentForm.Services\\StudentForm.Services.csproj|solutionrelative:studentform.services\\interface\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8229485D-B5AE-4800-A21E-22AAF6DFD29A}|StudentForm.Repository\\StudentForm.Repository.csproj|d:\\internship\\studentfrom\\studentform.repository\\implementation\\studentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8229485D-B5AE-4800-A21E-22AAF6DFD29A}|StudentForm.Repository\\StudentForm.Repository.csproj|solutionrelative:studentform.repository\\implementation\\studentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8229485D-B5AE-4800-A21E-22AAF6DFD29A}|StudentForm.Repository\\StudentForm.Repository.csproj|d:\\internship\\studentfrom\\studentform.repository\\interface\\istudentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,26 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{364E7973-D0D8-46F9-8BED-E40837E0DF0A}|StudentForm.Models\\StudentForm.Models.csproj|d:\\internship\\studentfrom\\studentform.models\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{364E7973-D0D8-46F9-8BED-E40837E0DF0A}|StudentForm.Models\\StudentForm.Models.csproj|solutionrelative:studentform.models\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4117D3D6-C727-47C3-9723-EFD75428C1BC}|StudentForm.Core\\StudentForm.Core.csproj|d:\\internship\\studentfrom\\studentform.core\\entities\\studenttable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4117D3D6-C727-47C3-9723-EFD75428C1BC}|StudentForm.Core\\StudentForm.Core.csproj|solutionrelative:studentform.core\\entities\\studenttable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8229485D-B5AE-4800-A21E-22AAF6DFD29A}|StudentForm.Repository\\StudentForm.Repository.csproj|d:\\internship\\studentfrom\\studentform.repository\\implementation\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8229485D-B5AE-4800-A21E-22AAF6DFD29A}|StudentForm.Repository\\StudentForm.Repository.csproj|solutionrelative:studentform.repository\\implementation\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8229485D-B5AE-4800-A21E-22AAF6DFD29A}|StudentForm.Repository\\StudentForm.Repository.csproj|d:\\internship\\studentfrom\\studentform.repository\\interface\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8229485D-B5AE-4800-A21E-22AAF6DFD29A}|StudentForm.Repository\\StudentForm.Repository.csproj|solutionrelative:studentform.repository\\interface\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{888DCB7E-9BE4-4FCF-851A-BB71CB800D59}|StudentFrom\\StudentFrom.csproj|d:\\internship\\studentfrom\\studentfrom\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{888DCB7E-9BE4-4FCF-851A-BB71CB800D59}|StudentFrom\\StudentFrom.csproj|solutionrelative:studentfrom\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4117D3D6-C727-47C3-9723-EFD75428C1BC}|StudentForm.Core\\StudentForm.Core.csproj|d:\\internship\\studentfrom\\studentform.core\\entities\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4117D3D6-C727-47C3-9723-EFD75428C1BC}|StudentForm.Core\\StudentForm.Core.csproj|solutionrelative:studentform.core\\entities\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -74,29 +58,51 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Internship\\StudentFrom\\StudentFrom\\Program.cs",
-              "RelativeDocumentMoniker": "StudentFrom\\Program.cs",
-              "ToolTip": "D:\\Internship\\StudentFrom\\StudentFrom\\Program.cs",
-              "RelativeToolTip": "StudentFrom\\Program.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAxwAoAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T05:21:26.033Z",
-              "EditorCaption": ""
+              "DocumentIndex": 1,
+              "Title": "EditStudent.cshtml",
+              "DocumentMoniker": "D:\\Internship\\StudentFrom\\StudentFrom\\Views\\Home\\EditStudent.cshtml",
+              "RelativeDocumentMoniker": "StudentFrom\\Views\\Home\\EditStudent.cshtml",
+              "ToolTip": "D:\\Internship\\StudentFrom\\StudentFrom\\Views\\Home\\EditStudent.cshtml",
+              "RelativeToolTip": "StudentFrom\\Views\\Home\\EditStudent.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-14T04:56:08.697Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "DisplayStudentForm.cshtml",
+              "DocumentMoniker": "D:\\Internship\\StudentFrom\\StudentFrom\\Views\\Home\\DisplayStudentForm.cshtml",
+              "RelativeDocumentMoniker": "StudentFrom\\Views\\Home\\DisplayStudentForm.cshtml",
+              "ToolTip": "D:\\Internship\\StudentFrom\\StudentFrom\\Views\\Home\\DisplayStudentForm.cshtml",
+              "RelativeToolTip": "StudentFrom\\Views\\Home\\DisplayStudentForm.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB0AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T05:08:47.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Internship\\StudentFrom\\StudentFrom\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "StudentFrom\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Internship\\StudentFrom\\StudentFrom\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "StudentFrom\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T04:45:40.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "StudentService.cs",
               "DocumentMoniker": "D:\\Internship\\StudentFrom\\StudentForm.Services\\Implementation\\StudentService.cs",
               "RelativeDocumentMoniker": "StudentForm.Services\\Implementation\\StudentService.cs",
               "ToolTip": "D:\\Internship\\StudentFrom\\StudentForm.Services\\Implementation\\StudentService.cs",
               "RelativeToolTip": "StudentForm.Services\\Implementation\\StudentService.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAiwBcAAAAQAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T04:55:12.981Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-09T04:55:12.981Z"
             },
             {
               "$type": "Document",
@@ -106,132 +112,58 @@
               "RelativeDocumentMoniker": "StudentForm.Services\\Interface\\IStudentService.cs",
               "ToolTip": "D:\\Internship\\StudentFrom\\StudentForm.Services\\Interface\\IStudentService.cs",
               "RelativeToolTip": "StudentForm.Services\\Interface\\IStudentService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAyAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA8AAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-09T04:54:42.457Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "StudentModel.cs",
               "DocumentMoniker": "D:\\Internship\\StudentFrom\\StudentForm.Models\\StudentModel.cs",
               "RelativeDocumentMoniker": "StudentForm.Models\\StudentModel.cs",
               "ToolTip": "D:\\Internship\\StudentFrom\\StudentForm.Models\\StudentModel.cs",
               "RelativeToolTip": "StudentForm.Models\\StudentModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAdAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-09T04:43:02.281Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "StudentRepo.cs",
               "DocumentMoniker": "D:\\Internship\\StudentFrom\\StudentForm.Repository\\Implementation\\StudentRepo.cs",
               "RelativeDocumentMoniker": "StudentForm.Repository\\Implementation\\StudentRepo.cs",
               "ToolTip": "D:\\Internship\\StudentFrom\\StudentForm.Repository\\Implementation\\StudentRepo.cs",
               "RelativeToolTip": "StudentForm.Repository\\Implementation\\StudentRepo.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAqwCwAAAAJAAAA",
+              "ViewState": "AQIAADsAAAAAAAAAAAAIwFYAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T06:02:31.987Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-08T06:02:31.987Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "IStudentRepo.cs",
               "DocumentMoniker": "D:\\Internship\\StudentFrom\\StudentForm.Repository\\Interface\\IStudentRepo.cs",
               "RelativeDocumentMoniker": "StudentForm.Repository\\Interface\\IStudentRepo.cs",
               "ToolTip": "D:\\Internship\\StudentFrom\\StudentForm.Repository\\Interface\\IStudentRepo.cs",
               "RelativeToolTip": "StudentForm.Repository\\Interface\\IStudentRepo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAHAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBAAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-08T06:01:40.909Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ConfigureService.cs",
-              "DocumentMoniker": "D:\\Internship\\StudentFrom\\StudentForm.Services\\ConfigureService.cs",
-              "RelativeDocumentMoniker": "StudentForm.Services\\ConfigureService.cs",
-              "ToolTip": "D:\\Internship\\StudentFrom\\StudentForm.Services\\ConfigureService.cs",
-              "RelativeToolTip": "StudentForm.Services\\ConfigureService.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAAAB4AAAA8AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T05:42:49.929Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\Internship\\StudentFrom\\StudentFrom\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "StudentFrom\\Controllers\\HomeController.cs",
               "ToolTip": "D:\\Internship\\StudentFrom\\StudentFrom\\Controllers\\HomeController.cs",
               "RelativeToolTip": "StudentFrom\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAMAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-08T05:41:33.987Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Repository.cs",
-              "DocumentMoniker": "D:\\Internship\\StudentFrom\\StudentForm.Repository\\Implementation\\Repository.cs",
-              "RelativeDocumentMoniker": "StudentForm.Repository\\Implementation\\Repository.cs",
-              "ToolTip": "D:\\Internship\\StudentFrom\\StudentForm.Repository\\Implementation\\Repository.cs",
-              "RelativeToolTip": "StudentForm.Repository\\Implementation\\Repository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T05:25:45.467Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "IRepository.cs",
-              "DocumentMoniker": "D:\\Internship\\StudentFrom\\StudentForm.Repository\\Interface\\IRepository.cs",
-              "RelativeDocumentMoniker": "StudentForm.Repository\\Interface\\IRepository.cs",
-              "ToolTip": "D:\\Internship\\StudentFrom\\StudentForm.Repository\\Interface\\IRepository.cs",
-              "RelativeToolTip": "StudentForm.Repository\\Interface\\IRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA8AAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T05:25:19.445Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "StudentTable.cs",
-              "DocumentMoniker": "D:\\Internship\\StudentFrom\\StudentForm.Core\\Entities\\StudentTable.cs",
-              "RelativeDocumentMoniker": "StudentForm.Core\\Entities\\StudentTable.cs",
-              "ToolTip": "D:\\Internship\\StudentFrom\\StudentForm.Core\\Entities\\StudentTable.cs",
-              "RelativeToolTip": "StudentForm.Core\\Entities\\StudentTable.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T05:21:03.003Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Internship\\StudentFrom\\StudentFrom\\appsettings.json",
-              "RelativeDocumentMoniker": "StudentFrom\\appsettings.json",
-              "ToolTip": "D:\\Internship\\StudentFrom\\StudentFrom\\appsettings.json",
-              "RelativeToolTip": "StudentFrom\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-08T05:15:36.209Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "StudentDBContext.cs",
-              "DocumentMoniker": "D:\\Internship\\StudentFrom\\StudentForm.Core\\Entities\\StudentDBContext.cs",
-              "RelativeDocumentMoniker": "StudentForm.Core\\Entities\\StudentDBContext.cs",
-              "ToolTip": "D:\\Internship\\StudentFrom\\StudentForm.Core\\Entities\\StudentDBContext.cs",
-              "RelativeToolTip": "StudentForm.Core\\Entities\\StudentDBContext.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAA5wCMAAABBAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T05:15:01.559Z"
             }
           ]
         }
