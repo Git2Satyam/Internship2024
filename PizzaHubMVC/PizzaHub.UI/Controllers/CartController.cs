@@ -50,8 +50,6 @@ namespace PizzaHub.UI.Controllers
             {
                 throw ex;
             }
-           
-           
         }
 
 

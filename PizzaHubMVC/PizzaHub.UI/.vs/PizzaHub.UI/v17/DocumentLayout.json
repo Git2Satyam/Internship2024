@@ -73,8 +73,7 @@
               "RelativeToolTip": "Areas\\Auth\\Views\\Authentication\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-30T11:31:32.174Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-30T11:31:32.174Z"
             },
             {
               "$type": "Document",
@@ -86,8 +85,7 @@
               "RelativeToolTip": "Areas\\Auth\\Controllers\\AuthenticationController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T11:31:15.295Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-30T11:31:15.295Z"
             },
             {
               "$type": "Document",
@@ -99,8 +97,7 @@
               "RelativeToolTip": "ScaffoldingReadMe.txt",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-10-30T11:15:04.079Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-30T11:15:04.079Z"
             },
             {
               "$type": "Document",
@@ -112,8 +109,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAgAAAAAAAAAAAAAABwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T10:42:02.057Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-30T10:42:02.057Z"
             },
             {
               "$type": "Document",
@@ -185,8 +181,7 @@
               "RelativeToolTip": "Controllers\\HomeController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T05:24:39.891Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-17T05:24:39.891Z"
             },
             {
               "$type": "Document",
@@ -196,7 +191,7 @@
               "RelativeDocumentMoniker": "Controllers\\CartController.cs",
               "ToolTip": "D:\\Internship\\Projects\\PizzaHubMVC\\PizzaHub.UI\\Controllers\\CartController.cs",
               "RelativeToolTip": "Controllers\\CartController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAVAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADgAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-23T05:13:13.319Z",
               "EditorCaption": ""
