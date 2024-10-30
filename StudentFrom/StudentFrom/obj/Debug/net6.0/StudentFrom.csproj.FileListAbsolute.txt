@@ -1,9 +1,0 @@
-D:\Internship\StudentFrom\StudentFrom\obj\Debug\net6.0\StudentFrom.csproj.AssemblyReference.cache
-D:\Internship\StudentFrom\StudentFrom\obj\Debug\net6.0\StudentFrom.GeneratedMSBuildEditorConfig.editorconfig
-D:\Internship\StudentFrom\StudentFrom\obj\Debug\net6.0\StudentFrom.AssemblyInfoInputs.cache
-D:\Internship\StudentFrom\StudentFrom\obj\Debug\net6.0\StudentFrom.AssemblyInfo.cs
-D:\Internship\StudentFrom\StudentFrom\obj\Debug\net6.0\StudentFrom.csproj.CoreCompileInputs.cache
-D:\Internship\StudentFrom\StudentFrom\obj\Debug\net6.0\StudentFrom.MvcApplicationPartsAssemblyInfo.cache
-D:\Internship\StudentFrom\StudentFrom\obj\Debug\net6.0\StudentFrom.RazorAssemblyInfo.cache
-D:\Internship\StudentFrom\StudentFrom\obj\Debug\net6.0\StudentFrom.RazorAssemblyInfo.cs
-D:\Internship\StudentFrom\StudentFrom\obj\Debug\net6.0\StudentFrom.sourcelink.json
