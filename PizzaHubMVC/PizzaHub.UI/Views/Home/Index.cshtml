@@ -1,0 +1,93 @@
+﻿@model IEnumerable<PizzaHub.Models.ProductModel>
+@{
+    ViewData["Title"] = "Home Page";
+    Layout = "_FullLayout";
+}
+
+@{
+    var img = ViewBag.Images as List<string>;
+}
+
+<div style="background: #1a5ca3; height: 30dvh">
+    <div class="pt-4 pb-3 p-lg-3">
+        <div>
+            <div class="row">
+                <div class="col-md-3">
+                    <img src="~/Images/Pizza/Pizza_H.jpg" alt="no image" class="img-fluid" style="height: 25dvh; border-radius: 5px" />
+                </div>
+
+                <div class="col-md-4 text-white">
+                    <h1>Pizza Hub's Website!</h1><br />
+                    <p>
+                        Pizza delivered at your door step!
+                    </p>
+                    <button href="#" class="btn btn-success">
+                        Order Online now
+                    </button>
+                </div>
+                <div class="col-md-5">
+                    <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
+                        <div class="carousel-indicators">
+                            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+                            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
+                            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
+                            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="3" aria-label="Slide 4"></button>
+                        </div>
+                        @if(img.Count > 0)
+                        {
+                            <div class="carousel-inner">
+                            @foreach (var item in img)
+                            {
+                                <div class="carousel-item active">
+                                    <img src="@Url.Content(@item)" class="d-block w-100" style="height: 250px" alt="...">
+                                </div>
+                            }
+                            </div>
+                           
+                        }
+                       
+                        @*  <div class="carousel-item">
+                        <img src="~/Images/Slider/Slider1.jpg" class="d-block w-100" style="height: 250px" alt="...">
+                        </div>
+                        <div class="carousel-item">
+                        <img src="~/Images/Slider/Slider1.jpg" class="d-block w-100" style="height: 250px" alt="...">
+                        </div> *@
+                        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
+                            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                            <span class="visually-hidden">Previous</span>
+                        </button>
+                        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
+                            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                            <span class="visually-hidden">Next</span>
+                        </button>
+                    </div>
+                </div>
+               
+            </div>
+           
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    @foreach (var product in Model)
+    {
+        <div class="col-md-3">
+            <div class="card" style="width: 24rem;margin: 15px">
+                <img src="@Url.Content(@product.ImageUrl)" style="height: 200px; width: 381px; padding: 3px" alt="...">
+                <div class="card-body">
+                    <h5 class="card-title">@product.ProductName</h5>
+                    <small class="text-success">In stock</small>
+                    <span>@product.Quantity</span>
+                    <p class="card-text">@product.ProdcutDescription</p>
+                    <h5>@product.UnitPrice</h5>
+                    <a class="btn btn-primary" href="@Url.Action("AddItemtoCart", "Cart", new{productId = product.Id})">Add to cart</a>
+                    <a class="btn btn-warning float-md-end">Buy now</a>
+                </div>
+            </div>
+        </div>
+    }
+</div>
+
+
+<partial name="_Notification" />

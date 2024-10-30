@@ -1,0 +1,347 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Internship\\Projects\\PizzaHubMVC\\PizzaHub.UI\\PizzaHub.UI.csproj": {}
+  },
+  "projects": {
+    "D:\\Internship\\Projects\\PizzaHubMVC\\PizzaHub.Core\\PizzaHub.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Internship\\Projects\\PizzaHubMVC\\PizzaHub.Core\\PizzaHub.Core.csproj",
+        "projectName": "PizzaHub.Core",
+        "projectPath": "D:\\Internship\\Projects\\PizzaHubMVC\\PizzaHub.Core\\PizzaHub.Core.csproj",
+        "packagesPath": "C:\\Users\\inbox\\.nuget\\packages\\",
+        "outputPath": "D:\\Internship\\Projects\\PizzaHubMVC\\PizzaHub.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\inbox\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Internship\\Projects\\PizzaHubMVC\\PizzaHub.Models\\PizzaHub.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Internship\\Projects\\PizzaHubMVC\\PizzaHub.Models\\PizzaHub.Models.csproj",
+        "projectName": "PizzaHub.Models",
+        "projectPath": "D:\\Internship\\Projects\\PizzaHubMVC\\PizzaHub.Models\\PizzaHub.Models.csproj",
+        "packagesPath": "C:\\Users\\inbox\\.nuget\\packages\\",
+        "outputPath": "D:\\Internship\\Projects\\PizzaHubMVC\\PizzaHub.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\inbox\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Internship\\Projects\\PizzaHubMVC\\PizzaHub.Repository\\PizzaHub.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Internship\\Projects\\PizzaHubMVC\\PizzaHub.Repository\\PizzaHub.Repository.csproj",
+        "projectName": "PizzaHub.Repository",
+        "projectPath": "D:\\Internship\\Projects\\PizzaHubMVC\\PizzaHub.Repository\\PizzaHub.Repository.csproj",
+        "packagesPath": "C:\\Users\\inbox\\.nuget\\packages\\",
+        "outputPath": "D:\\Internship\\Projects\\PizzaHubMVC\\PizzaHub.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\inbox\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Internship\\Projects\\PizzaHubMVC\\PizzaHub.Core\\PizzaHub.Core.csproj": {
+                "projectPath": "D:\\Internship\\Projects\\PizzaHubMVC\\PizzaHub.Core\\PizzaHub.Core.csproj"
+              },
+              "D:\\Internship\\Projects\\PizzaHubMVC\\PizzaHub.Models\\PizzaHub.Models.csproj": {
+                "projectPath": "D:\\Internship\\Projects\\PizzaHubMVC\\PizzaHub.Models\\PizzaHub.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Internship\\Projects\\PizzaHubMVC\\PizzaHub.Services\\PizzaHub.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Internship\\Projects\\PizzaHubMVC\\PizzaHub.Services\\PizzaHub.Services.csproj",
+        "projectName": "PizzaHub.Services",
+        "projectPath": "D:\\Internship\\Projects\\PizzaHubMVC\\PizzaHub.Services\\PizzaHub.Services.csproj",
+        "packagesPath": "C:\\Users\\inbox\\.nuget\\packages\\",
+        "outputPath": "D:\\Internship\\Projects\\PizzaHubMVC\\PizzaHub.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\inbox\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Internship\\Projects\\PizzaHubMVC\\PizzaHub.Repository\\PizzaHub.Repository.csproj": {
+                "projectPath": "D:\\Internship\\Projects\\PizzaHubMVC\\PizzaHub.Repository\\PizzaHub.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Internship\\Projects\\PizzaHubMVC\\PizzaHub.UI\\PizzaHub.UI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Internship\\Projects\\PizzaHubMVC\\PizzaHub.UI\\PizzaHub.UI.csproj",
+        "projectName": "PizzaHub.UI",
+        "projectPath": "D:\\Internship\\Projects\\PizzaHubMVC\\PizzaHub.UI\\PizzaHub.UI.csproj",
+        "packagesPath": "C:\\Users\\inbox\\.nuget\\packages\\",
+        "outputPath": "D:\\Internship\\Projects\\PizzaHubMVC\\PizzaHub.UI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\inbox\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Internship\\Projects\\PizzaHubMVC\\PizzaHub.Services\\PizzaHub.Services.csproj": {
+                "projectPath": "D:\\Internship\\Projects\\PizzaHubMVC\\PizzaHub.Services\\PizzaHub.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[6.0.18, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+D:\Internship\Projects\PizzaHubMVC\PizzaHub.Models\bin\Debug\net6.0\PizzaHub.Models.deps.json
+D:\Internship\Projects\PizzaHubMVC\PizzaHub.Models\bin\Debug\net6.0\PizzaHub.Models.dll
+D:\Internship\Projects\PizzaHubMVC\PizzaHub.Models\bin\Debug\net6.0\PizzaHub.Models.pdb
+D:\Internship\Projects\PizzaHubMVC\PizzaHub.Models\obj\Debug\net6.0\PizzaHub.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Internship\Projects\PizzaHubMVC\PizzaHub.Models\obj\Debug\net6.0\PizzaHub.Models.AssemblyInfoInputs.cache
+D:\Internship\Projects\PizzaHubMVC\PizzaHub.Models\obj\Debug\net6.0\PizzaHub.Models.AssemblyInfo.cs
+D:\Internship\Projects\PizzaHubMVC\PizzaHub.Models\obj\Debug\net6.0\PizzaHub.Models.csproj.CoreCompileInputs.cache
+D:\Internship\Projects\PizzaHubMVC\PizzaHub.Models\obj\Debug\net6.0\PizzaHub.Models.dll
+D:\Internship\Projects\PizzaHubMVC\PizzaHub.Models\obj\Debug\net6.0\refint\PizzaHub.Models.dll
+D:\Internship\Projects\PizzaHubMVC\PizzaHub.Models\obj\Debug\net6.0\PizzaHub.Models.pdb
+D:\Internship\Projects\PizzaHubMVC\PizzaHub.Models\obj\Debug\net6.0\ref\PizzaHub.Models.dll
