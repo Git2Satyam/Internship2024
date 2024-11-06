@@ -1,6 +1,8 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using PizzaHub.Models;
+using PizzaHub.Services.Implementation;
 using PizzaHub.Services.Interface;
+using System.Net;
 using System.Web;
 
 namespace PizzaHub.UI.Controllers
@@ -21,21 +23,15 @@ namespace PizzaHub.UI.Controllers
                 var cookie = getCookie();
                 if(cookie == null)
                 {
+                    TempData["error"] = "Login First";
                     return RedirectToAction("Index", "Authentication", new { Area = "Auth" });
-                    //Response.Cookies.Append("CartId", result, new CookieOptions { HttpOnly = true, Expires = DateTime.Now.AddYears(2) });
                 }
                 else
                 {
                     var result = _cartService.AddItemotCart(productId, CartId);
                     if (result != null && result != "0")
                     {
-
-                        if (cookie == null)
-                        {
-
-
-                        }
-
+                        Response.Cookies.Append("CartId", result, new CookieOptions { HttpOnly = true, Expires = DateTime.Now.AddMonths(2) });
                         TempData["success"] = "Item added to cart successfully!";
                     }
                     else if (result != null && result == "0")
@@ -58,7 +54,7 @@ namespace PizzaHub.UI.Controllers
         {
             try
             {
-                var getCookies = getCookie();
+                var getCookies = HttpContext.Request.Cookies["CartId"];
                 var id = new Guid(getCookies);
                 var cartData = _cartService.GetProductsByCartId(id);
                 Console.WriteLine(cartData);
@@ -83,7 +79,7 @@ namespace PizzaHub.UI.Controllers
         {
             try
             {
-                var cookies = HttpContext.Request.Cookies["CartId"];
+                var cookies = HttpContext.Request.Cookies[".AspNetCore.Antiforgery.KjaqY92YEmw"];
                 if (cookies != null) return cookies.ToString();
                 else return null;
             }
@@ -93,6 +89,14 @@ namespace PizzaHub.UI.Controllers
             }
         }
 
+        [Route("Cart/UpdateQuantity/{Id}/{Quantity}")]
+        public IActionResult UpdateQuantity(int Id, int Quantity)
+        {
+            var cookie = HttpContext.Request.Cookies["CartId"];
+            var cartid = new Guid(cookie);
+            int count = _cartService.UpdateQuantity(cartid, Id, Quantity);
+            return Json(count);
+        }
 
     }
 }

@@ -23,7 +23,7 @@ namespace PizzaHub.UI.Controllers
         {
             try
             {
-               var images =  this.GetSliderImage();  // get images for slider
+                var images =  this.GetSliderImage();  // get images for slider
                 ViewBag.Images = images;   // store images into viewbag
                 var result = _productService.GetAllProducts();
                 return View(result);

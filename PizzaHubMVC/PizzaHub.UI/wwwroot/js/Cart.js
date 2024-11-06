@@ -1,21 +1,30 @@
-﻿function AddItemtoCart(ItemId) {
-    $.ajax({
-        type: "GET",
-        contentType: "application/json; charset=utf-8",
-        url: '/Cart/AddItemtoCart/' + ItemId,
-        success: function (d) {
-            var data = JSON.parse(d);
-            if (data.CartItems.length > 0) {
-                $('.noti_Counter').text(data.CartItems.length);
-                var message = '<strong>' + Name + '</strong> Added to <a href="/cart">Cart</a> Successfully!'
-                $('#toastCart > .toast-body').html(message)
-                $('#toastCart').toast('show');
-                setTimeout(function () {
-                    $('#toastCart').toast('hide');
-                }, 4000);
-            }
-        },
-        error: function (result) {
-        }
-    });
+﻿function updateQuantity(id, total, quantity)
+{
+    if (id > 0 && quantity > 0) {
+        $.ajax({
+            type: "GET",
+            contentType: "application/json",
+            url: '/Cart/UpdateQuantity/' + id + "/" + quantity,
+            success: function (data) {
+                if (data > 0) {
+                    location.reload()
+                }
+            },
+            error: function (result) { }
+        });
+    }
+    else if (id > 0 && quantity < 0 && total > 1) {
+        $.ajax({
+            type: "GET",
+            contentType: "application/json",
+            url: '/Cart/UpdateQuantity/' + id + "/" + quantity,
+            success: function (data) {
+                if (data > 0) {
+                    location.reload();
+                }
+            },
+            error: function (result) {
+            },
+        });
+    }
 }

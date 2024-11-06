@@ -22,6 +22,30 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQXV0aFxWaWV3c1xBdXRoZW50aWNhdGlvblxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/Internship/Projects/PizzaHubMVC/PizzaHub.UI/Areas/Auth/Views/Shared/_Footer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQXV0aFxWaWV3c1xTaGFyZWRcX0Zvb3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Internship/Projects/PizzaHubMVC/PizzaHub.UI/Areas/Auth/Views/Shared/_FullLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQXV0aFxWaWV3c1xTaGFyZWRcX0Z1bGxMYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Internship/Projects/PizzaHubMVC/PizzaHub.UI/Areas/Auth/Views/Shared/_Header.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQXV0aFxWaWV3c1xTaGFyZWRcX0hlYWRlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Internship/Projects/PizzaHubMVC/PizzaHub.UI/Areas/Auth/Views/Shared/_Notification.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQXV0aFxWaWV3c1xTaGFyZWRcX05vdGlmaWNhdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Internship/Projects/PizzaHubMVC/PizzaHub.UI/Areas/Auth/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQXV0aFxWaWV3c1xfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Internship/Projects/PizzaHubMVC/PizzaHub.UI/Areas/Auth/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQXV0aFxWaWV3c1xfVmlld1N0YXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Internship/Projects/PizzaHubMVC/PizzaHub.UI/Views/Cart/DisplayCartItems.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxEaXNwbGF5Q2FydEl0ZW1zLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
@@ -73,6 +97,10 @@ build_metadata.AdditionalFiles.CssScope =
 [D:/Internship/Projects/PizzaHubMVC/PizzaHub.UI/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Internship/Projects/PizzaHubMVC/PizzaHub.UI/Areas/Auth/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQXV0aFxWaWV3c1xTaGFyZWRcX0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-uvciqkxyhj
 
 [D:/Internship/Projects/PizzaHubMVC/PizzaHub.UI/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s

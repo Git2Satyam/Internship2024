@@ -15,10 +15,20 @@
                         <div><strong>@product.ProductName</strong></div>
                         <div>@product.ProdcutDescription</div>
                         <div><small>@product.Currency</small>@product.UnitPrice</div>
-                        <div>@product.Quantity</div>
+                        <div style="max-width: fit-content">
+                            <div class="input-group mb-3">
+                                <div class="input-group-prepend">
+                                    <button onclick="updateQuantity('@product.Id','@product.Quantity',-1)" class="btn btn-outline-secondary" type="button">-</button>
+                                </div>
+                                <input class="form-control sm-control text-center" size="2" min="0" name="quantity" value="@product.Quantity" readonly />
+                                <div class="input-group-append">
+                                    <button onclick="updateQuantity('@product.Id','@product.Quantity',1)" class="btn btn-outline-secondary" type="button">+</button>
+                                </div>
+                            </div>
+                        </div>
                     </div>
                     <div class="col-md-2">
-
+                       
                     </div>
                 </div>
             }
@@ -26,3 +36,7 @@
        
     </div>
 </div>
+
+@section Scripts{
+   <script src="~/js/Cart.js"></script>
+}

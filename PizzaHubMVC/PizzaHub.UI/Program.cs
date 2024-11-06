@@ -10,6 +10,7 @@ namespace PizzaHub.UI
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();
+            builder.Services.AddSession();
             ConfigureService.RegisterService(builder.Services, builder.Configuration);
 
             var app = builder.Build();
@@ -28,7 +29,7 @@ namespace PizzaHub.UI
             app.UseRouting();
 
             app.UseAuthorization();
-            app.MapControllerRoute(  // here area is registered
+            app.MapControllerRoute(  // here area is configure
                 name: "areas",
                 pattern: "{area:exists}/{controller}/{action}/{id?}");
 

@@ -3,47 +3,61 @@
   "WorkspaceRootPath": "D:\\Internship\\Projects\\PizzaHubMVC\\PizzaHub.UI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3F8299A9-BB08-4D7D-BBFC-4CD063577488}|..\\PizzaHub.Services\\PizzaHub.Services.csproj|d:\\internship\\projects\\pizzahubmvc\\pizzahub.services\\implementation\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4A6C8F33-08A5-444E-B1C7-9641A1093940}|PizzaHub.UI.csproj|d:\\internship\\projects\\pizzahubmvc\\pizzahub.ui\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4A6C8F33-08A5-444E-B1C7-9641A1093940}|PizzaHub.UI.csproj|solutionrelative:controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A6C8F33-08A5-444E-B1C7-9641A1093940}|PizzaHub.UI.csproj|d:\\internship\\projects\\pizzahubmvc\\pizzahub.ui\\areas\\auth\\views\\authentication\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4A6C8F33-08A5-444E-B1C7-9641A1093940}|PizzaHub.UI.csproj|solutionrelative:areas\\auth\\views\\authentication\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{4A6C8F33-08A5-444E-B1C7-9641A1093940}|PizzaHub.UI.csproj|d:\\internship\\projects\\pizzahubmvc\\pizzahub.ui\\wwwroot\\js\\cart.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4A6C8F33-08A5-444E-B1C7-9641A1093940}|PizzaHub.UI.csproj|solutionrelative:wwwroot\\js\\cart.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A6C8F33-08A5-444E-B1C7-9641A1093940}|PizzaHub.UI.csproj|d:\\internship\\projects\\pizzahubmvc\\pizzahub.ui\\views\\cart\\displaycartitems.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A6C8F33-08A5-444E-B1C7-9641A1093940}|PizzaHub.UI.csproj|solutionrelative:views\\cart\\displaycartitems.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4A6C8F33-08A5-444E-B1C7-9641A1093940}|PizzaHub.UI.csproj|d:\\internship\\projects\\pizzahubmvc\\pizzahub.ui\\areas\\auth\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4A6C8F33-08A5-444E-B1C7-9641A1093940}|PizzaHub.UI.csproj|solutionrelative:areas\\auth\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A6C8F33-08A5-444E-B1C7-9641A1093940}|PizzaHub.UI.csproj|d:\\internship\\projects\\pizzahubmvc\\pizzahub.ui\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{4A6C8F33-08A5-444E-B1C7-9641A1093940}|PizzaHub.UI.csproj|solutionrelative:scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A6C8F33-08A5-444E-B1C7-9641A1093940}|PizzaHub.UI.csproj|d:\\internship\\projects\\pizzahubmvc\\pizzahub.ui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A6C8F33-08A5-444E-B1C7-9641A1093940}|PizzaHub.UI.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A6C8F33-08A5-444E-B1C7-9641A1093940}|PizzaHub.UI.csproj|d:\\internship\\projects\\pizzahubmvc\\pizzahub.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A6C8F33-08A5-444E-B1C7-9641A1093940}|PizzaHub.UI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4A6C8F33-08A5-444E-B1C7-9641A1093940}|PizzaHub.UI.csproj|d:\\internship\\projects\\pizzahubmvc\\pizzahub.ui\\areas\\auth\\views\\authentication\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A6C8F33-08A5-444E-B1C7-9641A1093940}|PizzaHub.UI.csproj|solutionrelative:areas\\auth\\views\\authentication\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4A6C8F33-08A5-444E-B1C7-9641A1093940}|PizzaHub.UI.csproj|d:\\internship\\projects\\pizzahubmvc\\pizzahub.ui\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4A6C8F33-08A5-444E-B1C7-9641A1093940}|PizzaHub.UI.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5EC4489D-9314-4C4C-8FFA-174F938ED648}|..\\PizzaHub.Repository\\PizzaHub.Repository.csproj|d:\\internship\\projects\\pizzahubmvc\\pizzahub.repository\\implementation\\cartrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F8299A9-BB08-4D7D-BBFC-4CD063577488}|..\\PizzaHub.Services\\PizzaHub.Services.csproj|d:\\internship\\projects\\pizzahubmvc\\pizzahub.services\\implementation\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5EC4489D-9314-4C4C-8FFA-174F938ED648}|..\\PizzaHub.Repository\\PizzaHub.Repository.csproj|d:\\internship\\projects\\pizzahubmvc\\pizzahub.repository\\interface\\icartrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3F8299A9-BB08-4D7D-BBFC-4CD063577488}|..\\PizzaHub.Services\\PizzaHub.Services.csproj|d:\\internship\\projects\\pizzahubmvc\\pizzahub.services\\interface\\icartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5EC4489D-9314-4C4C-8FFA-174F938ED648}|..\\PizzaHub.Repository\\PizzaHub.Repository.csproj|d:\\internship\\projects\\pizzahubmvc\\pizzahub.repository\\implementation\\prodcutrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4A6C8F33-08A5-444E-B1C7-9641A1093940}|PizzaHub.UI.csproj|d:\\internship\\projects\\pizzahubmvc\\pizzahub.ui\\areas\\auth\\views\\shared\\_notification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A6C8F33-08A5-444E-B1C7-9641A1093940}|PizzaHub.UI.csproj|solutionrelative:areas\\auth\\views\\shared\\_notification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A6C8F33-08A5-444E-B1C7-9641A1093940}|PizzaHub.UI.csproj|d:\\internship\\projects\\pizzahubmvc\\pizzahub.ui\\views\\shared\\_notification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A6C8F33-08A5-444E-B1C7-9641A1093940}|PizzaHub.UI.csproj|solutionrelative:views\\shared\\_notification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A6C8F33-08A5-444E-B1C7-9641A1093940}|PizzaHub.UI.csproj|d:\\internship\\projects\\pizzahubmvc\\pizzahub.ui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A6C8F33-08A5-444E-B1C7-9641A1093940}|PizzaHub.UI.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A6C8F33-08A5-444E-B1C7-9641A1093940}|PizzaHub.UI.csproj|d:\\internship\\projects\\pizzahubmvc\\pizzahub.ui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A6C8F33-08A5-444E-B1C7-9641A1093940}|PizzaHub.UI.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A6C8F33-08A5-444E-B1C7-9641A1093940}|PizzaHub.UI.csproj|d:\\internship\\projects\\pizzahubmvc\\pizzahub.ui\\views\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A6C8F33-08A5-444E-B1C7-9641A1093940}|PizzaHub.UI.csproj|solutionrelative:views\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F0194F0-5791-4BA6-88ED-8A64A8BCBD7A}|..\\PizzaHub.Models\\PizzaHub.Models.csproj|d:\\internship\\projects\\pizzahubmvc\\pizzahub.models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A6C8F33-08A5-444E-B1C7-9641A1093940}|PizzaHub.UI.csproj|d:\\internship\\projects\\pizzahubmvc\\pizzahub.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A6C8F33-08A5-444E-B1C7-9641A1093940}|PizzaHub.UI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -65,87 +79,117 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Internship\\Projects\\PizzaHubMVC\\PizzaHub.UI\\Areas\\Auth\\Views\\Authentication\\Index.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Auth\\Views\\Authentication\\Index.cshtml",
-              "ToolTip": "D:\\Internship\\Projects\\PizzaHubMVC\\PizzaHub.UI\\Areas\\Auth\\Views\\Authentication\\Index.cshtml",
-              "RelativeToolTip": "Areas\\Auth\\Views\\Authentication\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-30T11:31:32.174Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AuthenticationController.cs",
-              "DocumentMoniker": "D:\\Internship\\Projects\\PizzaHubMVC\\PizzaHub.UI\\Areas\\Auth\\Controllers\\AuthenticationController.cs",
-              "RelativeDocumentMoniker": "Areas\\Auth\\Controllers\\AuthenticationController.cs",
-              "ToolTip": "D:\\Internship\\Projects\\PizzaHubMVC\\PizzaHub.UI\\Areas\\Auth\\Controllers\\AuthenticationController.cs",
-              "RelativeToolTip": "Areas\\Auth\\Controllers\\AuthenticationController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA2AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T11:31:15.295Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ScaffoldingReadMe.txt",
-              "DocumentMoniker": "D:\\Internship\\Projects\\PizzaHubMVC\\PizzaHub.UI\\ScaffoldingReadMe.txt",
-              "RelativeDocumentMoniker": "ScaffoldingReadMe.txt",
-              "ToolTip": "D:\\Internship\\Projects\\PizzaHubMVC\\PizzaHub.UI\\ScaffoldingReadMe.txt",
-              "RelativeToolTip": "ScaffoldingReadMe.txt",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-10-30T11:15:04.079Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Internship\\Projects\\PizzaHubMVC\\PizzaHub.UI\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\Internship\\Projects\\PizzaHubMVC\\PizzaHub.UI\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAAABwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T10:42:02.057Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ICartRepo.cs",
-              "DocumentMoniker": "D:\\Internship\\Projects\\PizzaHubMVC\\PizzaHub.Repository\\Interface\\ICartRepo.cs",
-              "RelativeDocumentMoniker": "..\\PizzaHub.Repository\\Interface\\ICartRepo.cs",
-              "ToolTip": "D:\\Internship\\Projects\\PizzaHubMVC\\PizzaHub.Repository\\Interface\\ICartRepo.cs",
-              "RelativeToolTip": "..\\PizzaHub.Repository\\Interface\\ICartRepo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA5AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T05:09:44.513Z"
+              "Title": "DisplayCartItems.cshtml",
+              "DocumentMoniker": "D:\\Internship\\Projects\\PizzaHubMVC\\PizzaHub.UI\\Views\\Cart\\DisplayCartItems.cshtml",
+              "RelativeDocumentMoniker": "Views\\Cart\\DisplayCartItems.cshtml",
+              "ToolTip": "D:\\Internship\\Projects\\PizzaHubMVC\\PizzaHub.UI\\Views\\Cart\\DisplayCartItems.cshtml",
+              "RelativeToolTip": "Views\\Cart\\DisplayCartItems.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-06T03:52:21.216Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "CartRepo.cs",
-              "DocumentMoniker": "D:\\Internship\\Projects\\PizzaHubMVC\\PizzaHub.Repository\\Implementation\\CartRepo.cs",
-              "RelativeDocumentMoniker": "..\\PizzaHub.Repository\\Implementation\\CartRepo.cs",
-              "ToolTip": "D:\\Internship\\Projects\\PizzaHubMVC\\PizzaHub.Repository\\Implementation\\CartRepo.cs",
-              "RelativeToolTip": "..\\PizzaHub.Repository\\Implementation\\CartRepo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T05:09:37.788Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
               "Title": "ICartService.cs",
               "DocumentMoniker": "D:\\Internship\\Projects\\PizzaHubMVC\\PizzaHub.Services\\Interface\\ICartService.cs",
               "RelativeDocumentMoniker": "..\\PizzaHub.Services\\Interface\\ICartService.cs",
               "ToolTip": "D:\\Internship\\Projects\\PizzaHubMVC\\PizzaHub.Services\\Interface\\ICartService.cs",
               "RelativeToolTip": "..\\PizzaHub.Services\\Interface\\ICartService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAIAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T05:18:35.739Z"
+              "WhenOpened": "2024-11-06T03:47:36.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cart.js",
+              "DocumentMoniker": "D:\\Internship\\Projects\\PizzaHubMVC\\PizzaHub.UI\\wwwroot\\js\\Cart.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\Cart.js",
+              "ToolTip": "D:\\Internship\\Projects\\PizzaHubMVC\\PizzaHub.UI\\wwwroot\\js\\Cart.js",
+              "RelativeToolTip": "wwwroot\\js\\Cart.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-06T03:34:54.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Notification.cshtml",
+              "DocumentMoniker": "D:\\Internship\\Projects\\PizzaHubMVC\\PizzaHub.UI\\Areas\\Auth\\Views\\Shared\\_Notification.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Auth\\Views\\Shared\\_Notification.cshtml",
+              "ToolTip": "D:\\Internship\\Projects\\PizzaHubMVC\\PizzaHub.UI\\Areas\\Auth\\Views\\Shared\\_Notification.cshtml",
+              "RelativeToolTip": "Areas\\Auth\\Views\\Shared\\_Notification.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T12:12:06.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Internship\\Projects\\PizzaHubMVC\\PizzaHub.UI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Internship\\Projects\\PizzaHubMVC\\PizzaHub.UI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T12:11:30.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Footer.cshtml",
+              "DocumentMoniker": "D:\\Internship\\Projects\\PizzaHubMVC\\PizzaHub.UI\\Views\\Shared\\_Footer.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Footer.cshtml",
+              "ToolTip": "D:\\Internship\\Projects\\PizzaHubMVC\\PizzaHub.UI\\Views\\Shared\\_Footer.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Footer.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T12:11:22.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "D:\\Internship\\Projects\\PizzaHubMVC\\PizzaHub.UI\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CartController.cs",
+              "ToolTip": "D:\\Internship\\Projects\\PizzaHubMVC\\PizzaHub.UI\\Controllers\\CartController.cs",
+              "RelativeToolTip": "Controllers\\CartController.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAIwFsAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T05:13:13.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Internship\\Projects\\PizzaHubMVC\\PizzaHub.UI\\Areas\\Auth\\Views\\Authentication\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Auth\\Views\\Authentication\\Index.cshtml",
+              "ToolTip": "D:\\Internship\\Projects\\PizzaHubMVC\\PizzaHub.UI\\Areas\\Auth\\Views\\Authentication\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Auth\\Views\\Authentication\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T04:44:15.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "D:\\Internship\\Projects\\PizzaHubMVC\\PizzaHub.UI\\Areas\\Auth\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "Areas\\Auth\\Controllers\\AuthenticationController.cs",
+              "ToolTip": "D:\\Internship\\Projects\\PizzaHubMVC\\PizzaHub.UI\\Areas\\Auth\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "Areas\\Auth\\Controllers\\AuthenticationController.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAiwDIAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T04:42:07.944Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -155,58 +199,71 @@
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
               "ToolTip": "D:\\Internship\\Projects\\PizzaHubMVC\\PizzaHub.UI\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAEIAAAAAAAAAAAAAAEoAAAAeAAAA",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAE8AAABAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-24T03:56:21.899Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ProdcutRepo.cs",
-              "DocumentMoniker": "D:\\Internship\\Projects\\PizzaHubMVC\\PizzaHub.Repository\\Implementation\\ProdcutRepo.cs",
-              "RelativeDocumentMoniker": "..\\PizzaHub.Repository\\Implementation\\ProdcutRepo.cs",
-              "ToolTip": "D:\\Internship\\Projects\\PizzaHubMVC\\PizzaHub.Repository\\Implementation\\ProdcutRepo.cs",
-              "RelativeToolTip": "..\\PizzaHub.Repository\\Implementation\\ProdcutRepo.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAyAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T04:47:59.309Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\Internship\\Projects\\PizzaHubMVC\\PizzaHub.UI\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "D:\\Internship\\Projects\\PizzaHubMVC\\PizzaHub.UI\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T05:24:39.891Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CartController.cs",
-              "DocumentMoniker": "D:\\Internship\\Projects\\PizzaHubMVC\\PizzaHub.UI\\Controllers\\CartController.cs",
-              "RelativeDocumentMoniker": "Controllers\\CartController.cs",
-              "ToolTip": "D:\\Internship\\Projects\\PizzaHubMVC\\PizzaHub.UI\\Controllers\\CartController.cs",
-              "RelativeToolTip": "Controllers\\CartController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADgAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T05:13:13.319Z",
+              "WhenOpened": "2024-10-24T03:56:21.899Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
               "Title": "CartService.cs",
               "DocumentMoniker": "D:\\Internship\\Projects\\PizzaHubMVC\\PizzaHub.Services\\Implementation\\CartService.cs",
               "RelativeDocumentMoniker": "..\\PizzaHub.Services\\Implementation\\CartService.cs",
               "ToolTip": "D:\\Internship\\Projects\\PizzaHubMVC\\PizzaHub.Services\\Implementation\\CartService.cs",
               "RelativeToolTip": "..\\PizzaHub.Services\\Implementation\\CartService.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAiwBUAAAAIAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T05:12:01.353Z"
+              "WhenOpened": "2024-10-23T05:12:01.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Notification.cshtml",
+              "DocumentMoniker": "D:\\Internship\\Projects\\PizzaHubMVC\\PizzaHub.UI\\Views\\Shared\\_Notification.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Notification.cshtml",
+              "ToolTip": "D:\\Internship\\Projects\\PizzaHubMVC\\PizzaHub.UI\\Views\\Shared\\_Notification.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Notification.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T12:20:31.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Internship\\Projects\\PizzaHubMVC\\PizzaHub.UI\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Internship\\Projects\\PizzaHubMVC\\PizzaHub.UI\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBsAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T05:24:39.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Internship\\Projects\\PizzaHubMVC\\PizzaHub.UI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Internship\\Projects\\PizzaHubMVC\\PizzaHub.UI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T05:09:05.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "D:\\Internship\\Projects\\PizzaHubMVC\\PizzaHub.Models\\UserModel.cs",
+              "RelativeDocumentMoniker": "..\\PizzaHub.Models\\UserModel.cs",
+              "ToolTip": "D:\\Internship\\Projects\\PizzaHubMVC\\PizzaHub.Models\\UserModel.cs",
+              "RelativeToolTip": "..\\PizzaHub.Models\\UserModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T05:20:18.701Z"
             }
           ]
         }

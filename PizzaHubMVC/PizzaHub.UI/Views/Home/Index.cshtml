@@ -89,5 +89,7 @@
     }
 </div>
 
-
-<partial name="_Notification" />
+@if(TempData.Keys.Count > 0)
+{
+    <partial name="_Notification" />
+}

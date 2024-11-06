@@ -9,3 +9,4 @@ D:\Internship\Projects\PizzaHubMVC\PizzaHub.Models\obj\Debug\net6.0\PizzaHub.Mod
 D:\Internship\Projects\PizzaHubMVC\PizzaHub.Models\obj\Debug\net6.0\refint\PizzaHub.Models.dll
 D:\Internship\Projects\PizzaHubMVC\PizzaHub.Models\obj\Debug\net6.0\PizzaHub.Models.pdb
 D:\Internship\Projects\PizzaHubMVC\PizzaHub.Models\obj\Debug\net6.0\ref\PizzaHub.Models.dll
+D:\Internship\Projects\PizzaHubMVC\PizzaHub.Models\obj\Debug\net6.0\PizzaHub.Models.sourcelink.json
