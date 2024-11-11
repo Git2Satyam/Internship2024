@@ -16,7 +16,7 @@ namespace PizzaHub.UI.Areas.Auth.Controllers
         private readonly PizzaHubContext _context;
         public AuthenticationController(PizzaHubContext context)
         {
-                _context = context;
+            _context = context;
         }
         public IActionResult Index()
         {
@@ -79,7 +79,7 @@ namespace PizzaHub.UI.Areas.Auth.Controllers
                     _context.SaveChanges();
                     flag = true;
                 }
-                return Ok(flag);
+                return RedirectToAction("Index");
             }
             catch(Exception ex)
             {
@@ -100,6 +100,18 @@ namespace PizzaHub.UI.Areas.Auth.Controllers
             {
                 AllowRefresh = true,
             });
+        }
+
+        public IActionResult SignUpForm()
+        {
+            try
+            {
+                return View();
+            }
+            catch(Exception ex)
+            {
+                throw ex;
+            }
         }
     }
 

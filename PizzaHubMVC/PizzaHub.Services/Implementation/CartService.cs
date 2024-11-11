@@ -36,7 +36,14 @@ namespace PizzaHub.Services.Implementation
 
         public int UpdateQuantity(Guid cartId, int productId, int quantity)
         {
-            throw new NotImplementedException();
+            try
+            {
+                return _cartRepo.UpdateQuantity(cartId, productId, quantity);
+            }
+            catch(Exception ex)
+            {
+                throw ex;
+            }
         }
     }
 }

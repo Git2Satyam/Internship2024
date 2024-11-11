@@ -11,5 +11,7 @@ namespace PizzaHub.Repository.Interface
     {
         string AddItemotCart(int productId, Guid cartId);
         List<ProductModel> GetProductsByCartId(Guid cartid);
+
+        int UpdateQuantity(Guid cartId, int productId, int quantity);
     }
 }

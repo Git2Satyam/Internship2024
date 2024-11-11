@@ -10,3 +10,15 @@ D:\Internship\StudentFrom\StudentForm.Models\obj\Debug\net6.0\StudentForm.Models
 D:\Internship\StudentFrom\StudentForm.Models\obj\Debug\net6.0\refint\StudentForm.Models.dll
 D:\Internship\StudentFrom\StudentForm.Models\obj\Debug\net6.0\StudentForm.Models.pdb
 D:\Internship\StudentFrom\StudentForm.Models\obj\Debug\net6.0\ref\StudentForm.Models.dll
+D:\Internship\Projects\StudentFormMVC\StudentFrom\StudentForm.Models\bin\Debug\net6.0\StudentForm.Models.deps.json
+D:\Internship\Projects\StudentFormMVC\StudentFrom\StudentForm.Models\bin\Debug\net6.0\StudentForm.Models.dll
+D:\Internship\Projects\StudentFormMVC\StudentFrom\StudentForm.Models\bin\Debug\net6.0\StudentForm.Models.pdb
+D:\Internship\Projects\StudentFormMVC\StudentFrom\StudentForm.Models\obj\Debug\net6.0\StudentForm.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Internship\Projects\StudentFormMVC\StudentFrom\StudentForm.Models\obj\Debug\net6.0\StudentForm.Models.AssemblyInfoInputs.cache
+D:\Internship\Projects\StudentFormMVC\StudentFrom\StudentForm.Models\obj\Debug\net6.0\StudentForm.Models.AssemblyInfo.cs
+D:\Internship\Projects\StudentFormMVC\StudentFrom\StudentForm.Models\obj\Debug\net6.0\StudentForm.Models.csproj.CoreCompileInputs.cache
+D:\Internship\Projects\StudentFormMVC\StudentFrom\StudentForm.Models\obj\Debug\net6.0\StudentForm.Models.sourcelink.json
+D:\Internship\Projects\StudentFormMVC\StudentFrom\StudentForm.Models\obj\Debug\net6.0\StudentForm.Models.dll
+D:\Internship\Projects\StudentFormMVC\StudentFrom\StudentForm.Models\obj\Debug\net6.0\refint\StudentForm.Models.dll
+D:\Internship\Projects\StudentFormMVC\StudentFrom\StudentForm.Models\obj\Debug\net6.0\StudentForm.Models.pdb
+D:\Internship\Projects\StudentFormMVC\StudentFrom\StudentForm.Models\obj\Debug\net6.0\ref\StudentForm.Models.dll

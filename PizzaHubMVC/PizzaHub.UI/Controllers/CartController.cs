@@ -21,22 +21,39 @@ namespace PizzaHub.UI.Controllers
             try
             {
                 var cookie = getCookie();
-                if(cookie == null)
+                var cartExist = HttpContext.Request.Cookies["CartId"];
+                if(cookie == null && cartExist == null)
                 {
                     TempData["error"] = "Login First";
                     return RedirectToAction("Index", "Authentication", new { Area = "Auth" });
                 }
                 else
                 {
-                    var result = _cartService.AddItemotCart(productId, CartId);
-                    if (result != null && result != "0")
+                    if(cartExist != null)
                     {
-                        Response.Cookies.Append("CartId", result, new CookieOptions { HttpOnly = true, Expires = DateTime.Now.AddMonths(2) });
-                        TempData["success"] = "Item added to cart successfully!";
+                        var id = new Guid(cartExist);
+                        var result = _cartService.AddItemotCart(productId, id);
+                        if (result != null && result != "0")
+                        {
+                            TempData["success"] = "Item added to cart successfully!";
+                        }
+                        else if (result != null && result == "0")
+                        {
+                            TempData["success"] = "Item already exist in your cart";
+                        }
                     }
-                    else if (result != null && result == "0")
+                    else
                     {
-                        TempData["success"] = "Item already exist in your cart";
+                        var result = _cartService.AddItemotCart(productId, CartId);
+                        if (result != null && result != "0")
+                        {
+                            Response.Cookies.Append("CartId", result, new CookieOptions { HttpOnly = true, Expires = DateTime.Now.AddMonths(2) });
+                            TempData["success"] = "Item added to cart successfully!";
+                        }
+                        else if (result != null && result == "0")
+                        {
+                            TempData["success"] = "Item already exist in your cart";
+                        }
                     }
                     return RedirectToAction("Index", "Home");
                 }
@@ -57,7 +74,7 @@ namespace PizzaHub.UI.Controllers
                 var getCookies = HttpContext.Request.Cookies["CartId"];
                 var id = new Guid(getCookies);
                 var cartData = _cartService.GetProductsByCartId(id);
-                Console.WriteLine(cartData);
+                //Console.WriteLine(cartData);
                 return View(cartData);
             }
             catch(Exception ex)
@@ -92,10 +109,24 @@ namespace PizzaHub.UI.Controllers
         [Route("Cart/UpdateQuantity/{Id}/{Quantity}")]
         public IActionResult UpdateQuantity(int Id, int Quantity)
         {
-            var cookie = HttpContext.Request.Cookies["CartId"];
-            var cartid = new Guid(cookie);
-            int count = _cartService.UpdateQuantity(cartid, Id, Quantity);
-            return Json(count);
+            try
+            {
+                var cookie = HttpContext.Request.Cookies["CartId"];
+                var cartid = new Guid(cookie);
+                int count = _cartService.UpdateQuantity(cartid, Id, Quantity);
+                if (count > 1)
+                {
+                    return Json(count);
+                }
+                else
+                {
+                    return Ok(string.Format("Something went wrong"));
+                }
+            }
+            catch (Exception)
+            {
+                throw;
+            }
         }
 
     }

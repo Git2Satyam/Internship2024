@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Internship\\StudentFrom\\StudentForm.Repository\\StudentForm.Repository.csproj": {}
+    "D:\\Internship\\Projects\\StudentFormMVC\\StudentFrom\\StudentForm.Repository\\StudentForm.Repository.csproj": {}
   },
   "projects": {
-    "D:\\Internship\\StudentFrom\\StudentForm.Core\\StudentForm.Core.csproj": {
+    "D:\\Internship\\Projects\\StudentFormMVC\\StudentFrom\\StudentForm.Core\\StudentForm.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Internship\\StudentFrom\\StudentForm.Core\\StudentForm.Core.csproj",
+        "projectUniqueName": "D:\\Internship\\Projects\\StudentFormMVC\\StudentFrom\\StudentForm.Core\\StudentForm.Core.csproj",
         "projectName": "StudentForm.Core",
-        "projectPath": "D:\\Internship\\StudentFrom\\StudentForm.Core\\StudentForm.Core.csproj",
+        "projectPath": "D:\\Internship\\Projects\\StudentFormMVC\\StudentFrom\\StudentForm.Core\\StudentForm.Core.csproj",
         "packagesPath": "C:\\Users\\inbox\\.nuget\\packages\\",
-        "outputPath": "D:\\Internship\\StudentFrom\\StudentForm.Core\\obj\\",
+        "outputPath": "D:\\Internship\\Projects\\StudentFormMVC\\StudentFrom\\StudentForm.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\inbox\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -75,14 +75,14 @@
         }
       }
     },
-    "D:\\Internship\\StudentFrom\\StudentForm.Models\\StudentForm.Models.csproj": {
+    "D:\\Internship\\Projects\\StudentFormMVC\\StudentFrom\\StudentForm.Models\\StudentForm.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Internship\\StudentFrom\\StudentForm.Models\\StudentForm.Models.csproj",
+        "projectUniqueName": "D:\\Internship\\Projects\\StudentFormMVC\\StudentFrom\\StudentForm.Models\\StudentForm.Models.csproj",
         "projectName": "StudentForm.Models",
-        "projectPath": "D:\\Internship\\StudentFrom\\StudentForm.Models\\StudentForm.Models.csproj",
+        "projectPath": "D:\\Internship\\Projects\\StudentFormMVC\\StudentFrom\\StudentForm.Models\\StudentForm.Models.csproj",
         "packagesPath": "C:\\Users\\inbox\\.nuget\\packages\\",
-        "outputPath": "D:\\Internship\\StudentFrom\\StudentForm.Models\\obj\\",
+        "outputPath": "D:\\Internship\\Projects\\StudentFormMVC\\StudentFrom\\StudentForm.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\inbox\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -136,14 +136,14 @@
         }
       }
     },
-    "D:\\Internship\\StudentFrom\\StudentForm.Repository\\StudentForm.Repository.csproj": {
+    "D:\\Internship\\Projects\\StudentFormMVC\\StudentFrom\\StudentForm.Repository\\StudentForm.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Internship\\StudentFrom\\StudentForm.Repository\\StudentForm.Repository.csproj",
+        "projectUniqueName": "D:\\Internship\\Projects\\StudentFormMVC\\StudentFrom\\StudentForm.Repository\\StudentForm.Repository.csproj",
         "projectName": "StudentForm.Repository",
-        "projectPath": "D:\\Internship\\StudentFrom\\StudentForm.Repository\\StudentForm.Repository.csproj",
+        "projectPath": "D:\\Internship\\Projects\\StudentFormMVC\\StudentFrom\\StudentForm.Repository\\StudentForm.Repository.csproj",
         "packagesPath": "C:\\Users\\inbox\\.nuget\\packages\\",
-        "outputPath": "D:\\Internship\\StudentFrom\\StudentForm.Repository\\obj\\",
+        "outputPath": "D:\\Internship\\Projects\\StudentFormMVC\\StudentFrom\\StudentForm.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\inbox\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -161,11 +161,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Internship\\StudentFrom\\StudentForm.Core\\StudentForm.Core.csproj": {
-                "projectPath": "D:\\Internship\\StudentFrom\\StudentForm.Core\\StudentForm.Core.csproj"
+              "D:\\Internship\\Projects\\StudentFormMVC\\StudentFrom\\StudentForm.Core\\StudentForm.Core.csproj": {
+                "projectPath": "D:\\Internship\\Projects\\StudentFormMVC\\StudentFrom\\StudentForm.Core\\StudentForm.Core.csproj"
               },
-              "D:\\Internship\\StudentFrom\\StudentForm.Models\\StudentForm.Models.csproj": {
-                "projectPath": "D:\\Internship\\StudentFrom\\StudentForm.Models\\StudentForm.Models.csproj"
+              "D:\\Internship\\Projects\\StudentFormMVC\\StudentFrom\\StudentForm.Models\\StudentForm.Models.csproj": {
+                "projectPath": "D:\\Internship\\Projects\\StudentFormMVC\\StudentFrom\\StudentForm.Models\\StudentForm.Models.csproj"
               }
             }
           }

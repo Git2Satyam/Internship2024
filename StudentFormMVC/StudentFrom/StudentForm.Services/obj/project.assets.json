@@ -1967,11 +1967,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Internship\\StudentFrom\\StudentForm.Services\\StudentForm.Services.csproj",
+      "projectUniqueName": "D:\\Internship\\Projects\\StudentFormMVC\\StudentFrom\\StudentForm.Services\\StudentForm.Services.csproj",
       "projectName": "StudentForm.Services",
-      "projectPath": "D:\\Internship\\StudentFrom\\StudentForm.Services\\StudentForm.Services.csproj",
+      "projectPath": "D:\\Internship\\Projects\\StudentFormMVC\\StudentFrom\\StudentForm.Services\\StudentForm.Services.csproj",
       "packagesPath": "C:\\Users\\inbox\\.nuget\\packages\\",
-      "outputPath": "D:\\Internship\\StudentFrom\\StudentForm.Services\\obj\\",
+      "outputPath": "D:\\Internship\\Projects\\StudentFormMVC\\StudentFrom\\StudentForm.Services\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\inbox\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1989,8 +1989,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Internship\\StudentFrom\\StudentForm.Repository\\StudentForm.Repository.csproj": {
-              "projectPath": "D:\\Internship\\StudentFrom\\StudentForm.Repository\\StudentForm.Repository.csproj"
+            "D:\\Internship\\Projects\\StudentFormMVC\\StudentFrom\\StudentForm.Repository\\StudentForm.Repository.csproj": {
+              "projectPath": "D:\\Internship\\Projects\\StudentFormMVC\\StudentFrom\\StudentForm.Repository\\StudentForm.Repository.csproj"
             }
           }
         }

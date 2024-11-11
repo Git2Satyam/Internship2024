@@ -9,47 +9,47 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = StudentFrom
 build_property.RootNamespace = StudentFrom
-build_property.ProjectDir = D:\Internship\StudentFrom\StudentFrom\
+build_property.ProjectDir = D:\Internship\Projects\StudentFormMVC\StudentFrom\StudentFrom\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\Internship\StudentFrom\StudentFrom
+build_property.MSBuildProjectDirectory = D:\Internship\Projects\StudentFormMVC\StudentFrom\StudentFrom
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/Internship/StudentFrom/StudentFrom/Views/Home/DisplayStudentForm.cshtml]
+[D:/Internship/Projects/StudentFormMVC/StudentFrom/StudentFrom/Views/Home/DisplayStudentForm.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEaXNwbGF5U3R1ZGVudEZvcm0uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Internship/StudentFrom/StudentFrom/Views/Home/EditStudent.cshtml]
+[D:/Internship/Projects/StudentFormMVC/StudentFrom/StudentFrom/Views/Home/EditStudent.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFZGl0U3R1ZGVudC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Internship/StudentFrom/StudentFrom/Views/Home/Index.cshtml]
+[D:/Internship/Projects/StudentFormMVC/StudentFrom/StudentFrom/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Internship/StudentFrom/StudentFrom/Views/Home/Privacy.cshtml]
+[D:/Internship/Projects/StudentFormMVC/StudentFrom/StudentFrom/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Internship/StudentFrom/StudentFrom/Views/Shared/Error.cshtml]
+[D:/Internship/Projects/StudentFormMVC/StudentFrom/StudentFrom/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Internship/StudentFrom/StudentFrom/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/Internship/Projects/StudentFormMVC/StudentFrom/StudentFrom/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Internship/StudentFrom/StudentFrom/Views/_ViewImports.cshtml]
+[D:/Internship/Projects/StudentFormMVC/StudentFrom/StudentFrom/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Internship/StudentFrom/StudentFrom/Views/_ViewStart.cshtml]
+[D:/Internship/Projects/StudentFormMVC/StudentFrom/StudentFrom/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Internship/StudentFrom/StudentFrom/Views/Shared/_Layout.cshtml]
+[D:/Internship/Projects/StudentFormMVC/StudentFrom/StudentFrom/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-teqyncdxsw

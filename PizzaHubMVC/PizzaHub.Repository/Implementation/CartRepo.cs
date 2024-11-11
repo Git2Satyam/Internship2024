@@ -24,7 +24,7 @@ namespace PizzaHub.Repository.Implementation
             var product = GetProductByid(productId);
             try
             {
-                var cartExist = _context.Carts.Include(c => c.CartItems).FirstOrDefault(c => c.UserId == 1);
+                var cartExist = _context.Carts.Include(c => c.CartItems).FirstOrDefault(c => c.Id == cartId);
                 if (cartExist == null)
                 {
                     var addCart = new Cart
@@ -109,6 +109,30 @@ namespace PizzaHub.Repository.Implementation
                     }
                 }
                 return model;
+            }
+            catch(Exception ex)
+            {
+                throw ex;
+            }
+        }
+
+        public int UpdateQuantity(Guid cartId, int productId, int quantity)
+        {
+            try
+            {
+                var data = _context.CartItems.FirstOrDefault(c => c.CartId == cartId && c.ProductId == productId);
+                if(data != null)
+                {
+                    data.Quantity += quantity;   
+                    _context.Entry(data).State = EntityState.Modified;
+                    _context.SaveChanges();
+                    return (int)data.Quantity;
+                }
+                else
+                {
+                    int qty = 0;
+                    return qty;
+                }
             }
             catch(Exception ex)
             {

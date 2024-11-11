@@ -31,4 +31,11 @@
     <Folder Include="Areas\Auth\Models\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Content Update="Areas\Auth\Views\Shared\_ValidationScriptsPartial.cshtml">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+  </ItemGroup>
+
 </Project>

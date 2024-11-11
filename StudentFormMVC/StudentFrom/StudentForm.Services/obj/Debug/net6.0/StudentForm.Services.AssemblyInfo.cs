@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StudentForm.Services")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+371ca9cb092c365f54e9bd66cbedf93dbd5898a9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e00b033011d7b2e817c8cb0168b21fb58379ab62")]
 [assembly: System.Reflection.AssemblyProductAttribute("StudentForm.Services")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StudentForm.Services")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

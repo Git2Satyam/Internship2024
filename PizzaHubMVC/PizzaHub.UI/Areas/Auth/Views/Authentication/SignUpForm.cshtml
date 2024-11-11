@@ -1,0 +1,40 @@
+﻿@model PizzaHub.Models.UserModel
+
+
+<div class="container">
+    <div>
+        <h3 class="text-center mt-3">Sign Up</h3>
+        <form asp-action="SaveUser" asp-controller="Authentication" asp-area="Auth" method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="from-group mb-3">
+                <label asp-for="FirstName">FirstName</label>
+                <input type="text" class="form-control" asp-for="FirstName" placeholder="Enter first name here" required/>
+                <span asp-validation-for="FirstName" class="text-danger"></span>
+            </div>
+             <div class="from-group mb-3">
+                <label asp-for="LastName">LastName</label>
+                <input type="text" class="form-control" asp-for="LastName" placeholder="Enter last name here" required/>
+                <span asp-validation-for="LastName" class="text-danger"></span>
+            </div>
+             <div class="from-group mb-3">
+                <label asp-for="Email">Email</label>
+                <input type="text" class="form-control" asp-for="Email" placeholder="Enter email" required/>
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+             <div class="from-group mb-3">
+                <label asp-for="Password">Password</label>
+                <input type="text" class="form-control" asp-for="Password" placeholder="Enter password" required/>
+                <span asp-validation-for="Password" class="text-danger"></span>
+            </div>
+           
+            <button type="submit" class="btn btn-primary">Submit</button>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
+
+
+

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PPau47eVBGs=",
+  "dgSpecHash": "5/yjqM3GFpI=",
   "success": true,
-  "projectFilePath": "D:\\Internship\\StudentFrom\\StudentForm.Services\\StudentForm.Services.csproj",
+  "projectFilePath": "D:\\Internship\\Projects\\StudentFormMVC\\StudentFrom\\StudentForm.Services\\StudentForm.Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\inbox\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\inbox\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",

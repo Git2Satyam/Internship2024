@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Internship\\StudentFrom\\StudentForm.Core\\StudentForm.Core.csproj": {}
+    "D:\\Internship\\Projects\\StudentFormMVC\\StudentFrom\\StudentForm.Core\\StudentForm.Core.csproj": {}
   },
   "projects": {
-    "D:\\Internship\\StudentFrom\\StudentForm.Core\\StudentForm.Core.csproj": {
+    "D:\\Internship\\Projects\\StudentFormMVC\\StudentFrom\\StudentForm.Core\\StudentForm.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Internship\\StudentFrom\\StudentForm.Core\\StudentForm.Core.csproj",
+        "projectUniqueName": "D:\\Internship\\Projects\\StudentFormMVC\\StudentFrom\\StudentForm.Core\\StudentForm.Core.csproj",
         "projectName": "StudentForm.Core",
-        "projectPath": "D:\\Internship\\StudentFrom\\StudentForm.Core\\StudentForm.Core.csproj",
+        "projectPath": "D:\\Internship\\Projects\\StudentFormMVC\\StudentFrom\\StudentForm.Core\\StudentForm.Core.csproj",
         "packagesPath": "C:\\Users\\inbox\\.nuget\\packages\\",
-        "outputPath": "D:\\Internship\\StudentFrom\\StudentForm.Core\\obj\\",
+        "outputPath": "D:\\Internship\\Projects\\StudentFormMVC\\StudentFrom\\StudentForm.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\inbox\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -10751,11 +10751,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Internship\\StudentFrom\\StudentFrom\\StudentFrom.csproj",
+      "projectUniqueName": "D:\\Internship\\Projects\\StudentFormMVC\\StudentFrom\\StudentFrom\\StudentFrom.csproj",
       "projectName": "StudentFrom",
-      "projectPath": "D:\\Internship\\StudentFrom\\StudentFrom\\StudentFrom.csproj",
+      "projectPath": "D:\\Internship\\Projects\\StudentFormMVC\\StudentFrom\\StudentFrom\\StudentFrom.csproj",
       "packagesPath": "C:\\Users\\inbox\\.nuget\\packages\\",
-      "outputPath": "D:\\Internship\\StudentFrom\\StudentFrom\\obj\\",
+      "outputPath": "D:\\Internship\\Projects\\StudentFormMVC\\StudentFrom\\StudentFrom\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\inbox\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -10773,8 +10773,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Internship\\StudentFrom\\StudentForm.Services\\StudentForm.Services.csproj": {
-              "projectPath": "D:\\Internship\\StudentFrom\\StudentForm.Services\\StudentForm.Services.csproj"
+            "D:\\Internship\\Projects\\StudentFormMVC\\StudentFrom\\StudentForm.Services\\StudentForm.Services.csproj": {
+              "projectPath": "D:\\Internship\\Projects\\StudentFormMVC\\StudentFrom\\StudentForm.Services\\StudentForm.Services.csproj"
             }
           }
         }

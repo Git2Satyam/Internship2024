@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UedRpRAIcRY=",
+  "dgSpecHash": "2ug3oz3DD2A=",
   "success": true,
-  "projectFilePath": "D:\\Internship\\StudentFrom\\StudentForm.Core\\StudentForm.Core.csproj",
+  "projectFilePath": "D:\\Internship\\Projects\\StudentFormMVC\\StudentFrom\\StudentForm.Core\\StudentForm.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\inbox\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.0\\microsoft.entityframeworkcore.6.0.0.nupkg.sha512",
     "C:\\Users\\inbox\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.0\\microsoft.entityframeworkcore.abstractions.6.0.0.nupkg.sha512",

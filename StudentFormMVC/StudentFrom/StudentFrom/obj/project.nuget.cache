@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KhaAPTE2e4U=",
+  "dgSpecHash": "Ybxaaw8WwAk=",
   "success": true,
-  "projectFilePath": "D:\\Internship\\StudentFrom\\StudentFrom\\StudentFrom.csproj",
+  "projectFilePath": "D:\\Internship\\Projects\\StudentFormMVC\\StudentFrom\\StudentFrom\\StudentFrom.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\inbox\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\inbox\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
